@@ -1,6 +1,5 @@
 {
-  "name": "crowdproperty/modulr-hmac-php-client",
-  "version": "0.4.2",
+  "name": "alexbirtwell/modulr-hmac-php-client",
   "minimum-stability": "stable",
   "license": "GPL-3.0",
   "require": {
